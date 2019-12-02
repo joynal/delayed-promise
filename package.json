@@ -1,0 +1,17 @@
+{
+  "name": "delayed-promise",
+  "main": "./src/promise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joynal Abedin",
+  "homepage": "https://github.com/joynal/delayed-promise",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
